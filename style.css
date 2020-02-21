@@ -1,13 +1,13 @@
 body{
-  	font-family: arial;
-  }
+  font-family: arial;
+}
 ul{
-  	list-style: none;
-  }
+  list-style: none;
+}
 
 ul li{
-  	padding:4px; 
-  	margin:4px;
-  	border-radius:4px;
-  	background-color: #ddd;
-  }
+  padding:4px; 
+  margin:4px;
+  border-radius:4px;
+  background-color: #ddd;
+}
